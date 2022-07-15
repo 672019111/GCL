@@ -2,7 +2,7 @@ What is the gcloud command to set default zone for compute engine server using g
 - C = gcloud config set compute/zone us-east1-a
 
 You created a bucket in cloud storage and uploaded some files and then enabled object versioning on it. Which version the files you have already added will have?
--
+- A
 
 You have been hired as a contractor by one of the travel technology companies that is planning to containerize their existing applications in such a way that they can perform a lift and shift very easily in the future if they plan to move away from Google Cloud. Which service will best suit this case?
 - A = Kubernetes Engine
