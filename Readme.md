@@ -1,4 +1,86 @@
 ---
+You have been asked to set up network security in a virtual private cloud. Your company wants to have multiple subnetworks and limit traffic between the subnetworks. Which network security control would you use to control the flow of traffic between subnets?
+- [x] Firewall
+---
+While working on a project, an application administrator has been given the responsibility of managing all resources. He wants to delegate the responsibility of managing the existing service accounts to another administrator. He will also be responsible to manage the other service accounts that will be created. Which of the following is the best way to delegate the privileges required to manage all the service accounts?
+- [x] Granting iam.serviceAccountUser to the administrator at the project level
+---
+A user prefers services that require minimal setup. Why would you recommend Cloud Storage, App Engine, and Cloud Functions?
+- [x] They are serverless.
+---
+You are deploying a new relational database to support a web application. Which type of storage system would you use to store data files of the database?
+- [x] Block storage
+---
+You have created a virtual machine. Which of the following system administration operations are you allowed to perform on it?
+- [x] All of the above
+---
+If you use a cluster that is managed by a cloud provider, which of these will be managed for you by the cloud provider?
+- [x] All of the above
+---
+Your client’s transactions must access a drive attached to a virtual machine that allows for random access to parts of files. What kind of storage does the attached drive provide?
+- [x] Block storage
+--- 
+Why can cloud providers offer elastic resource allocation?
+- [x] Extensive resources and the ability to quickly shift resources between customers enables public cloud providers to offer elastic resource allocation more efficiently than can be done in smaller data centers.
+---
+Your client wants to develop a new cost-effective web application that runs on a serverless platform using Cloud Function, Cloud Storage, Pub/Sub, and Cloud CDN. The expected data would be 20 GB. Which of the following databases would be the most suitable schemaless option to support the serverless functionality?
+- [x] Cloud Firestore
+---
+Your managers want you to suggest a low-cost storage option that could be used to share read-only data across multiple instances with high performance and no edge caching. Which storage option would you suggest?
+- [x] Cloud Storage
+---
+What is the command for creating a storage bucket that has once per month access and is named “archive_bucket”?
+- [x] gsutil mb -c nearline gs://archive_bucket
+---
+Which of the following commands could be used to change the storage class of an object in Cloud Storage?
+- [x] gsutil rewrite -s [STORAGE_CLASS] gs://Reports-PDF/[OBJECT_NAME]
+---
+You have set a firewall rule that will permit inbound connections to a VM instance named bangkitserver-2. You want to apply this rule only if there is not another rule that would deny that traffic. What priority would you give to this rule?
+- [x] 65535
+---
+You created a Cloud SQL instance with automated backup switched on. After a few weeks your manager asked you to restore a 12 days older snapshot. While restoring the snapshot you notice that there are only 7 automated backups available. What can be the reason?
+- [x] CloudSQL only stores 7 automated backups.
+---
+A bug has been identified within your Python application which is hosted using App Engine and you are about to roll out a new version of the application to resolve the bug, but do not want the traffic to automatically shift to a new version just to make sure the new version does not break anything. How would you achieve it?
+- [x] Pass --no-promote flag while deploying a new version.
+---
+You work for a retail company that has a busy online store. As you are approaching the new year, you find that your e-store is getting more and more traffic. You ensure that your web servers are behind a managed instance group. However, you notice that the web tier is frequently scaling, sometimes multiple times in an hour. You need to keep the instance group from scaling up and down so rapidly. Which of the following options would help you achieve this?
+- [x] Increase the cooldown period.
+---
+Your client is planning to deploy an application on Google App Engine and has a requirement to store 1TB of data in schemaless, strongly consistent, ACID-compliant database solution. Which of the following would you consider for this?
+- [x] Google Cloud Datastore
+---
+
+- [x] 
+---
+
+- [x] 
+---
+
+- [x] 
+---
+
+- [x] 
+---
+
+- [x] 
+---
+
+- [x] 
+---
+
+- [x] 
+---
+
+- [x] 
+---
+
+- [x] 
+---
+
+- [x] 
+
+---
 What is the gcloud command to set default zone for compute engine server using gcloud CLI?
 - [x] gcloud config set compute/zone us-east1-a
 ---
