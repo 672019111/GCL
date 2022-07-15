@@ -13,17 +13,30 @@ Being a Senior Cloud Engineer of the company, you are asked to launch a managed 
 ---
 Which command will let you enable Google Compute service using gcloud CLI?
 - [x] gcloud service compute enable
-
 ---
+You are working for a genomics company in the US that is planning to conduct data analysis on around 10 TB of data. The company would require 20 vCPUs and 60GB of RAM for the same. You have been asked to figure out the cheapest option to conduct the analysis. Which of the following would you use?
+- [x] 
 ---
+-
 ---
+-
 ---
+-
 ---
+-
 ---
+-
 ---
+-
 ---
+-
 ---
+-
 ---
+-
 ---
+-
 ---
+-
 ---
+-
