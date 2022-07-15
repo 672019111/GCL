@@ -15,3 +15,18 @@ You have been hired as a contractor by one of the travel technology companies th
 
 Being a Senior Cloud Engineer of the company, you are asked to launch a managed MySQL DB using custom VPC with network range of 172.17.0.0/16 on Google Cloud keeping security at utmost priority allowing team members to access it only over a private channel. You completed the setup with all the requirements, but developers are unable to access DB over the private network via application hosted on VM. What can be the reason?
 - A = You did not whitelist 172.17.0.0/16 in the firewall.
+
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
