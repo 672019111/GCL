@@ -1,3 +1,4 @@
+### First Practice Exam (English)
 ---
 You have been asked to set up network security in a virtual private cloud. Your company wants to have multiple subnetworks and limit traffic between the subnetworks. Which network security control would you use to control the flow of traffic between subnets?
 - [x] Firewall
@@ -50,26 +51,26 @@ You work for a retail company that has a busy online store. As you are approachi
 Your client is planning to deploy an application on Google App Engine and has a requirement to store 1TB of data in schemaless, strongly consistent, ACID-compliant database solution. Which of the following would you consider for this?
 - [x] Google Cloud Datastore
 ---
-
-- [x] 
+You have been asked to automate the infrastructure deployment using Google Deployment Manager service. Which format does the Deployment Manager template support?
+- [x] YAML
 ---
-
-- [x] 
+You created a VPC with a CIDR block of 10.40.0.0/16 with 2 subnets of CIDR range 10.40.1.0/24 and 10.40.2.0/24. What would be the default routes within this virtual private connection having the broadest CIDR range?
+- [x] 0.0.0.0/0
 ---
-
-- [x] 
+You are working on a project whose development phase has been completed and the manager has asked you to create a new project for UAT environment which should be a clone of the development environment. Dev environment consists of 5 VMs which need to be replicated to UAT environment. How can you achieve this?
+- [x] Create a custom image of each instance in the dev environment and while launching VMs in the UAT environment under boot disk select Custom images, select your project and choose the relevant image.
 ---
-
-- [x] 
+You have deployed a Django 1.5 Python application to App Engine. This version of Django requires Python 3. Due to some issues, App Engine is trying to run the application using Python 2. Which of the following files would you check and modify (if required) to ensure that Python 3 is used with the application?
+- [x] app.yaml
 ---
-
-- [x] 
+Your client has prepared a new company policy in which each developer must sign a Contributor License Agreement (CLA) before code changes are committed to any version control repository. You have been asked to check each commit in a repository that includes the policy and your manager has also provided you with node.js code. Which of the following services can help you implement this solution?
+- [x] Cloud Function
 ---
-
-- [x] 
+One of your team members had accidentally included a service account private JSON key while pushing code to GitHub. What steps should you immediately perform?
+- [x] Delete the JSON file from GitHub, remove the key from Google Cloud IAM and generate a new key for use.
 ---
-
-- [x] 
+You want to filter logs present in Stackdriver Log Viewer using more than a simple text filter. Which feature will allow you to do it?
+- [x] Advanced Filter
 ---
 
 - [x] 
