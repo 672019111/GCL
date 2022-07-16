@@ -1,0 +1,35 @@
+---
+A startup has reached out to you for help with their single page application which they will be running using docker. They want you to suggest the best possible service which can be used by the developers to deploy and manage the application on their own. Which one according to you will be best suited for their requirement without considering the management of underlying infrastructure?
+- f
+---
+A startup has reached out to you for help with their single page application which they will be running using docker. They want you to suggest the best possible service which can be used by the developers to deploy and manage the application on their own. Which one according to you will be best suited for their requirement without considering the management of underlying infrastructure?
+- d
+---
+- f
+---
+- d
+---
+- f
+---
+- d
+---
+- f
+---
+- d
+---
+- f
+---
+- d
+---
+- f
+---
+- d
+---
+- f
+---
+- d
+---
+- f
+---
+- d
+---
