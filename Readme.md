@@ -72,7 +72,44 @@ One of your team members had accidentally included a service account private JSO
 You want to filter logs present in Stackdriver Log Viewer using more than a simple text filter. Which feature will allow you to do it?
 - [x] Advanced Filter
 ---
+You need serverless computing for file processing and running the backend of a website; which two products can you choose from Google Cloud Platform?
+- [x] App Engine dan Cloud Functions
+---
 
+- [x] 
+---
+
+- [x] 
+
+---
+
+- [x] 
+---
+
+- [x] 
+---
+
+- [x] 
+
+---
+- [x] 
+---
+
+- [x] 
+---
+
+- [x] 
+
+---
+- [x] 
+---
+
+- [x] 
+---
+
+- [x] 
+
+---
 - [x] 
 ---
 
@@ -134,8 +171,7 @@ A team of developers has been working on a Java 8 application on their local mac
 ---
 You have an application running on Google Cloud VM written in C#.Net for the last few weeks. Suddenly you experience elevated latency and poor performance among application endpoints. Which service can help you troubleshoot this issue?
 - Stackdriver Monitoring
-- 
-Activity Logs
+- Activity Logs
 ---
 Your client wants to migrate their 30 TB of Hadoop or Spark cluster from an RHEL 6.5 on-premise server to Google Cloud Platform. Which of the following services can be used at the GCP end?
 - [x] Dataproc
