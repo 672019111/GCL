@@ -172,26 +172,6 @@ Someone from a different team has approached you that he is working on a web app
 Your client hosts a static website on Cloud Storage written in HTML, CSS, JavaScript. The site targets users in North America, the usage of the website has grown worldwide and hundreds of thousands of visitors access it monthly. Visitors from different parts of the world are experiencing slow performance due to latency while users in the United States experience normal response times. What service can mitigate this issue?
 - Load Balancer
 ---
-
-- [x] 
----
-
-- [x] 
-
----
-
-- [x] 
-
----
-- [x] 
----
-
-- [x] 
----
-
-- [x] 
-
----
 What is the gcloud command to set default zone for compute engine server using gcloud CLI?
 - [x] gcloud config set compute/zone us-east1-a
 ---
@@ -221,7 +201,7 @@ Your team is building a media collection and analysis application for one of you
 - API Library
 - Marketplace Explorer
 ---
-f
+You are working for a service company that has an automobile client. The client has developed an application for internal use with Erlang and has approached your company to help him to ease the application deployment process on Google Cloud. The company does not have highly trained people, so it wants you to deploy the application in such a way that post-deployment, they will be able to manage it without worrying about the infrastructure. Which of the following services would you prefer?
 - [x] App Engine Flexible
 ---
 You are planning to build a microservice application with docker containers and want to host them on Google Cloud as stateless and serverless. Which service will help you serve the need?
@@ -273,9 +253,3 @@ Your client wants you to update a viewer role in your google cloud platform proj
 You want to list permissions in a role using Cloud Console. Where would you go to see that?
 - IAM & Admin; select Roles. All permissions will be displayed.
 - IAM & Admin; select Audit Logs.
-
-
-
--
----
-
